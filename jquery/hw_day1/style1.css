@@ -1,0 +1,25 @@
+#rock {
+   width:30px; /*width of your image*/
+   height:30px; /*height of your image*/
+   background-image:url('http://preview.cutcaster.com/902949236-cartoon-rock.jpg');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+
+#paper {
+   width:30px; /*width of your image*/
+   height:30px; /*height of your image*/
+   background-image:url('https://s-media-cache-ak0.pinimg.com/originals/5f/11/43/5f11435077b9d633d0066916e6b9ebfe.jpg');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+
+
+#scissors {
+   width:30px; /*width of your image*/
+   height:30px; /*height of your image*/
+   background-image:url('https://vectortoons.com/wp-content/uploads/2015/05/scissors-emoji-collection-002.jpg');
+   margin:0; /* If you want no margin */
+   padding:0; /*if your want to padding */
+}
+
